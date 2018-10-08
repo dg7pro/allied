@@ -12,10 +12,10 @@ require 'tmhOAuth.php'; // Get it from: https://github.com/themattharris/tmhOAut
 ));*/
 
 $connection = new tmhOAuth(array(
-    'consumer_key' => 'zmPqKe2OzT392p6QdpVFnlFHV',
-    'consumer_secret' => 'RqedDLyqDnAFImeBxswMESbPMEyNYASKPw6lk0l7GuSR5AmKwr',
-    'user_token' => '93219077-aaech6hatbPS7Xoep5oLyagvP0lYf2bRZrJVXLsg3', //access token
-    'user_secret' => 'q7ThCdrz7m6DO0QRWLhRjtqfTNeAgzglTQiG7mYBitJZ3' //access token secret
+    'consumer_key' => 'ziLsE5DepCYEGwlXJ109bvb88',
+    'consumer_secret' => 'zLNg7OXv4aT2BNPbbz5WqL7HRCOyOD8RRFBXW1XriT4jdTww2l',
+    'user_token' => '460465607-5QdBsldUKcayPwUCq6XorxjpMu9vlvDP8j11IBCU', //access token
+    'user_secret' => 'mRb0CqitKlTxRXjwsO0fy7VYL5jdwDNQS7FIaCiI3PE52' //access token secret
 ));
 
 // set up parameters to pass
