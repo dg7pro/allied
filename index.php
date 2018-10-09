@@ -5,90 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
-  <title>Oxygen - One Page HTML Template | Themeum</title>
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/animate.min.css" rel="stylesheet"> 
-  <link href="css/font-awesome.min.css" rel="stylesheet">
-  <link href="css/lightbox.css" rel="stylesheet">
-  <link href="css/main.css" rel="stylesheet">
-  <link id="css-preset" href="css/presets/preset5.css" rel="stylesheet">
-  <link href="css/responsive.css" rel="stylesheet">
-
-  <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
-  <![endif]-->
-  
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
-  <link rel="shortcut icon" href="images/favicon4.ico">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.css">
-</head><!--/head-->
+  <title>Allied InfoMedia | Premier web development company</title>
+  <?php include 'csslinks.php'; ?>
+</head>
 
 <body>
 
-  <!--.preloader-->
-  <div class="preloader"> <i class="fa fa-circle-o-notch fa-spin"></i></div>
-  <!--/.preloader-->
+  <?php include 'header.php'; ?>
 
-  <header id="home">
-    <div id="home-slider" class="carousel slide carousel-fade" data-ride="carousel">
-      <div class="carousel-inner">
-        <div class="item active" style="background-image: url(images/slider/1.jpg)">
-          <div class="caption">
-            <h1 class="animated fadeInLeftBig">Welcome to <span>Allied</span></h1>
-            <p class="animated fadeInRightBig">Web Design - Social Media Campaign - Android - Graphics Design</p>
-            <a data-scroll class="btn btn-start animated fadeInUpBig" href="#services">Start now</a>
-          </div>
-        </div>
-        <div class="item" style="background-image: url(images/slider/2.jpg)">
-          <div class="caption">
-            <h1 class="animated fadeInLeftBig">Say Hello to <span>Allied</span></h1>
-            <p class="animated fadeInRightBig">Web Design - Social Media Campaign - Android - Graphics Design</p>
-            <a data-scroll class="btn btn-start animated fadeInUpBig" href="#services">Start now</a>
-          </div>
-        </div>
-        <div class="item" style="background-image: url(images/slider/3.jpg)">
-          <div class="caption">
-            <h1 class="animated fadeInLeftBig">We are <span>Creative</span></h1>
-            <p class="animated fadeInRightBig">Web Design - Social Media Campaign - Android - Graphics Design</p>
-            <a data-scroll class="btn btn-start animated fadeInUpBig" href="#services">Start now</a>
-          </div>
-        </div>
-      </div>
-      <a class="left-control" href="#home-slider" data-slide="prev"><i class="fa fa-angle-left"></i></a>
-      <a class="right-control" href="#home-slider" data-slide="next"><i class="fa fa-angle-right"></i></a>
-
-      <a id="tohash" href="#services"><i class="fa fa-angle-down"></i></a>
-
-    </div><!--/#home-slider-->
-    <div class="main-nav">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.html">
-            <h1><img class="img-responsive" src="images/logo3.png" alt="logo"></h1>
-          </a>                    
-        </div>
-        <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav navbar-right">                 
-            <li class="scroll active"><a href="#home">Home</a></li>
-            <li class="scroll"><a href="#services">Service</a></li> 
-            <li class="scroll"><a href="#about-us">About Us</a></li>                     
-            <li class="scroll"><a href="#portfolio">Portfolio</a></li>
-            <li class="scroll"><a href="#team">Team</a></li>
-            <li class="scroll"><a href="#blog">Blog</a></li>
-            <li class="scroll"><a href="#contact">Contact</a></li>       
-          </ul>
-        </div>
-      </div>
-    </div><!--/#main-nav-->
-  </header><!--/#home-->
   <section id="services">
     <div class="container">
       <div class="heading wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
@@ -412,7 +336,7 @@
           <div class="col-sm-3">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="300ms">
               <div class="member-image">
-                <img class="img-responsive" src="images/team/1.jpg" alt="">
+                <img class="img-responsive" src="images/team/1a.jpg" alt="">
               </div>
               <div class="member-info">
                 <h3>Bhupesh Jaiswal</h3>
@@ -433,7 +357,7 @@
           <div class="col-sm-3">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="500ms">
               <div class="member-image">
-                <img class="img-responsive" src="images/team/2.jpg" alt="">
+                <img class="img-responsive" src="images/team/new2a.jpg" alt="">
               </div>
               <div class="member-info">
                 <h3>Dhananjay Gupta</h3>
@@ -565,7 +489,7 @@
             <div class="col-sm-3">
                 <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="1100ms">
                     <div class="member-image">
-                        <img class="img-responsive" src="images/team/4.jpg" alt="">
+                        <img class="img-responsive" src="images/team/8a.jpg" alt="">
                     </div>
                     <div class="member-info">
                         <h3>Gopal Srivastava</h3>
@@ -753,7 +677,7 @@
               </div>-->
             </div>
             <div class="entry-header">
-              <h3><a href="your-online-presence.html">Your online presence, what it means to website visitors?</a></h3>
+              <h3><a href="your-online-presence.php">Your online presence, what it means to website visitors?</a></h3>
               <span class="date">July 27, 2018</span>
               <span class="cetagory">in <strong>Web Design</strong></span>
             </div>
@@ -794,7 +718,7 @@
               </div>-->
             </div>
             <div class="entry-header">
-              <h3><a href="digital-marketing.html">Importance of Social Media and Digital Marketing</a></h3>
+              <h3><a href="digital-marketing.php">Importance of Social Media and Digital Marketing</a></h3>
               <span class="date">Sep 25, 2018</span>
               <span class="cetagory">in <strong>Digital Marketing</strong></span>
             </div>
@@ -818,7 +742,7 @@
               </div>-->
             </div>
             <div class="entry-header">
-              <h3><a href="mobile-app-development.html">Benefits of Mobile App Development</a></h3>
+              <h3><a href="mobile-app-development.php">Benefits of Mobile App Development</a></h3>
               <span class="date">Sep 27, 2018</span>
               <span class="cetagory">in <strong>Mobile App</strong></span>
             </div>
@@ -832,7 +756,7 @@
         </div>
         <div class="load-more wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">
           <!--<a href="#" class="btn-loadmore"><i class="fa fa-repeat"></i> Load More</a>-->
-          <a href="#" id="oldWeb" class="btn-loadmore"><i class="fa fa-share"></i> Old Website</a>
+          <a href="http://www.twitter.com" id="old-web" class="btn-loadmore old-web"><i class="fa fa-share"></i> Old Website</a>
         </div>                
       </div>
     </div>
@@ -892,37 +816,7 @@
     </div>        
   </section><!--/#contact-->
 
-  <footer id="footer">
-    <div class="footer-top wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
-      <div class="container text-center">
-        <div class="footer-logo">
-          <a href="index.html"><img class="img-responsive" src="images/logo7.png" alt=""></a>
-        </div>
-        <div class="social-icons">
-          <ul>
-            <li><a class="envelope" href="#"><i class="fa fa-envelope"></i></a></li>
-            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li> 
-            <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
-            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-            <li><a class="tumblr" href="#"><i class="fa fa-tumblr-square"></i></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-6">
-            <p>&copy; 2018 Allied InfoMedia.</p>
-          </div>
-          <div class="col-sm-6">
-            <p class="pull-right">Designed by <a href="http://www.alliedinfomedia.com/">Allied</a></p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
+  <?php include 'footer.php'; ?>
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -991,31 +885,27 @@
 
   <script type="text/javascript">
       $(document).ready(function(){
-          $("#oldWeb").click(function(e){
-              e.preventDefault();
-              /*$.alert({
-                  theme: 'modern',
-                  title: 'Alert!',
-                  content: 'Simple alert!',
-              });*/
-              $.confirm({
-                  title: 'Encountered an error!',
-                  content: 'Something went downhill, this may be serious',
-                  type: 'red',
-                  typeAnimated: true,
+          $('a.old-web').confirm({
+                  title: 'Go to our old website!',
+                  content: 'Click ok to continue or cancel to remain on this website',
+                  type: 'blue',
                   buttons: {
-                      tryAgain: {
-                          text: 'Try again',
-                          btnClass: 'btn-red',
+                      okay: {
+                          text: 'Ok',
+                          btnClass: 'btn-blue',
                           action: function(){
+                              location.href = this.$target.attr('href');
                           }
                       },
-                      close: function () {
+                      close: {
+                          text: 'Cancel',
+                          action: function(){
+
+                          }
                       }
                   }
-              });
           });
-      })
+      });
   </script>
 </body>
 </html>
