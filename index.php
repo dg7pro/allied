@@ -336,7 +336,7 @@
           <div class="col-sm-3">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="300ms">
               <div class="member-image">
-                <img class="img-responsive" src="images/team/1a.jpg" alt="">
+                <img class="img-responsive" src="images/team/a1.jpg" alt="">
               </div>
               <div class="member-info">
                 <h3>Bhupesh Jaiswal</h3>
@@ -357,7 +357,7 @@
           <div class="col-sm-3">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="500ms">
               <div class="member-image">
-                <img class="img-responsive" src="images/team/new2a.jpg" alt="">
+                <img class="img-responsive" src="images/team/a2.jpg" alt="">
               </div>
               <div class="member-info">
                 <h3>Dhananjay Gupta</h3>
@@ -378,7 +378,7 @@
           <div class="col-sm-3">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="800ms">
               <div class="member-image">
-                <img class="img-responsive" src="images/team/3.jpg" alt="">
+                <img class="img-responsive" src="images/team/a3.jpg" alt="">
               </div>
               <div class="member-info">
                 <h3>Ashish Singh</h3>
@@ -399,7 +399,7 @@
           <div class="col-sm-3">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="1100ms">
               <div class="member-image">
-                <img class="img-responsive" src="images/team/4.jpg" alt="">
+                <img class="img-responsive" src="images/team/a4.jpg" alt="">
               </div>
               <div class="member-info">
                 <h3>Chandan Kumar</h3>
@@ -426,11 +426,11 @@
             <div class="col-sm-3">
                 <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="300ms">
                     <div class="member-image">
-                        <img class="img-responsive" src="images/team/1.jpg" alt="">
+                        <img class="img-responsive" src="images/team/a5.jpg" alt="">
                     </div>
                     <div class="member-info">
-                        <h3>Naveen Sidhwani</h3>
-                        <h4>CEO &amp; Founder</h4>
+                        <h3>Mohammad Jamal</h3>
+                        <h4>Business Lead</h4>
                         <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                     </div>
                     <div class="social-icons">
@@ -447,11 +447,11 @@
             <div class="col-sm-3">
                 <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="500ms">
                     <div class="member-image">
-                        <img class="img-responsive" src="images/team/2.jpg" alt="">
+                        <img class="img-responsive" src="images/team/a6.jpg" alt="">
                     </div>
                     <div class="member-info">
-                        <h3>Sumit Sethi</h3>
-                        <h4>UI/UX Designer</h4>
+                        <h3>Leah Culver</h3>
+                        <h4>Python Developer</h4>
                         <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                     </div>
                     <div class="social-icons">
@@ -468,11 +468,11 @@
             <div class="col-sm-3">
                 <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="800ms">
                     <div class="member-image">
-                        <img class="img-responsive" src="images/team/3.jpg" alt="">
+                        <img class="img-responsive" src="images/team/a7.jpg" alt="">
                     </div>
                     <div class="member-info">
                         <h3>Venkatesh Singh</h3>
-                        <h4>Developer</h4>
+                        <h4>Web Developer</h4>
                         <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                     </div>
                     <div class="social-icons">
@@ -489,11 +489,11 @@
             <div class="col-sm-3">
                 <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="1100ms">
                     <div class="member-image">
-                        <img class="img-responsive" src="images/team/8a.jpg" alt="">
+                        <img class="img-responsive" src="images/team/a8.jpg" alt="">
                     </div>
                     <div class="member-info">
                         <h3>Gopal Srivastava</h3>
-                        <h4>Support Manager</h4>
+                        <h4>.NET Developer</h4>
                         <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                     </div>
                     <div class="social-icons">
